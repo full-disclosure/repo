@@ -7,6 +7,9 @@ Please sumbit your [encrypted](full-disclosure.asc) report as a github issue. Th
 * [FDEU-CVE-2020-03081](reports/2020/FDEU-CVE-2020-03081-tele2-selfservice.md) -
 Temporary code's weakness in Tele2 self service API allows take over of any account
 
+* [FDEU-CVE-2020-1FC5](reports/2020/FDEU-CVE-2020-1FC5-telia-technicolor-tg389ac-vulnerability.md) -
+Telia Technicolor TG389ac Samba privilege escalation exploit
+
 ## 2019
 
 * [FDEU-CVE-2019-10222](reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.md) -
