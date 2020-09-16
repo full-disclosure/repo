@@ -10,6 +10,9 @@ Temporary code's weakness in Tele2 self service API allows take over of any acco
 * [FDEU-CVE-2020-1FC5](reports/2020/FDEU-CVE-2020-1FC5-telia-technicolor-tg389ac-vulnerability.md) -
 Telia Technicolor TG389ac Samba privilege escalation exploit
 
+* [FDEU-CVE-2020-1C7E](reports/2020/FDEU-CVE-2020-1C7E-bite-alcatel-hh40v-vulnerable-router.md) -
+Vulnerable Alcatel HH40V routers still being sold by Bite Lietuva
+
 ## 2019
 
 * [FDEU-CVE-2019-10222](reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.md) -
