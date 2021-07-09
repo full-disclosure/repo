@@ -7,6 +7,9 @@ Please sumbit your [encrypted](full-disclosure.asc) report as a github issue. Th
 * [FDEU-CVE-2021-2F01](reports/2021/FDEU-CVE-2021-2F01-vulnerable-cgates-router-outdated-acs-server.md) -
 Vulnerable Cgates router and outdated ACS management server
 
+* [FDEU-CVE-2021-525A](reports/2021/FDEU-CVE-2021-525a-dlink-decryption-tool.md) -
+D-Link credentials decryption tool poc
+
 ## 2020
 
 * [FDEU-CVE-2020-03081](reports/2020/FDEU-CVE-2020-03081-tele2-selfservice.md) -
