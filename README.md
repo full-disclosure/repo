@@ -10,6 +10,9 @@ Vulnerable Cgates router and outdated ACS management server
 * [FDEU-CVE-2021-525A](reports/2021/FDEU-CVE-2021-525a-dlink-decryption-tool.md) -
 D-Link credentials decryption tool poc
 
+* [FDEU-CVE-2021-30F0](reports/2021/FDEU-CVE-2021-30F0-bypass-mobile-internet-restrictions.md) -
+Bypass of mobile internet restrictions
+
 ## 2020
 
 * [FDEU-CVE-2020-03081](reports/2020/FDEU-CVE-2020-03081-tele2-selfservice.md) -
