@@ -2,6 +2,12 @@ Please sumbit your [encrypted](full-disclosure.asc) report as a github issue. Th
 
 # Full Disclosure published reports
 
+## 2022
+
+* [CVE-2021-44827](reports/2022/CVE-2021-44827-tplink-authenticated-remote-code-execution.md) -
+TP-Link router Archer C20i contains authenticated remote code execution vulnerability
+
+
 ## 2021
 
 * [FDEU-CVE-2021-2F01](reports/2021/FDEU-CVE-2021-2F01-vulnerable-cgates-router-outdated-acs-server.md) -
