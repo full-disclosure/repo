@@ -7,6 +7,9 @@ Please sumbit your [encrypted](full-disclosure.asc) report as a github issue. Th
 * [CVE-2021-44827](reports/2022/CVE-2021-44827-tplink-authenticated-remote-code-execution.md) -
 TP-Link router Archer C20i contains authenticated remote code execution vulnerability
 
+* [FDEU-CVE-2022-41c0](reports/2022/FDEU-CVE-2022-41c0-http-or-https.md) -
+Tele2 again incorrectly using HTTPS on its self-service website.
+
 
 ## 2021
 
