@@ -4,6 +4,9 @@ Please sumbit your [encrypted](full-disclosure.asc) report as a github issue. Th
 
 ## 2023
 
+* [FDEU-CVE-2023-60ab](reports/2023/FDEU-CVE-2023-60ab-gosign.md) -
+Registru Centras GoSign digital signature middleware insecure architecture.
+
 * [FDEU-CVE-2023-5ef0](reports/2023/FDEU-CVE-2023-5ef0-verocafe-android-app.md) -
 VeroCafe insecure mobile application.
 
