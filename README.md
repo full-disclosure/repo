@@ -4,6 +4,9 @@ Please sumbit your [encrypted](full-disclosure.asc) report as a github issue. Th
 
 ## 2023
 
+* [FDEU-CVE-2023-77dc](reports/2023/FDEU-CVE-2023-77dc-mezon-swc-9200-vulnerable-router.md) -
+Mezon SWC-9200 router is vulnerable to remote code execution.
+
 * [FDEU-CVE-2023-60ab](reports/2023/FDEU-CVE-2023-60ab-gosign.md) -
 Registru Centras GoSign digital signature middleware insecure architecture.
 
