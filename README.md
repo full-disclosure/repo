@@ -2,6 +2,11 @@ Please sumbit your [encrypted](full-disclosure.asc) report as a github issue. Th
 
 # Full Disclosure published reports
 
+## 2024
+
+* [FDEU-CVE-2024-8ab4](reports/2024/FDEU-CVE-2024-8ab4-globaltips-writable-nfc-cards.md) -
+Globaltips using unprotected writable NFC cards.
+
 ## 2023
 
 * [FDEU-CVE-2023-77dc](reports/2023/FDEU-CVE-2023-77dc-mezon-swc-9200-vulnerable-router.md) -
