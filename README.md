@@ -4,6 +4,9 @@ Please sumbit your [encrypted](full-disclosure.asc) report as a github issue. Th
 
 ## 2024
 
+* [FDEU-CVE-2024-97cb](reports/2024/FDEU-CVE-2024-97cb-maxima-android-app-vuln.md) -
+Multiple weaknesses in Maxima mobile application.
+
 * [FDEU-CVE-2024-8ab4](reports/2024/FDEU-CVE-2024-8ab4-globaltips-writable-nfc-cards.md) -
 Globaltips using unprotected writable NFC cards.
 
