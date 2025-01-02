@@ -2,6 +2,11 @@ Please sumbit your [encrypted](full-disclosure.asc) report as a github issue. Th
 
 # Full Disclosure published reports
 
+## 2025
+
+* [FDEU-CVE-2025-00fe](reports/2025/FDEU-CVE-2025-00fe-github-private-repo-access-control-bypass.md) -
+Bypass of access restrictions of a private Github organization repo.
+
 ## 2024
 
 * [FDEU-CVE-2024-97cb](reports/2024/FDEU-CVE-2024-97cb-maxima-android-app-vuln.md) -
