@@ -1,4 +1,6 @@
-Please sumbit your [encrypted](full-disclosure.asc) report as a github issue. Thank you
+Please sumbit your [encrypted](full-disclosure.asc) report as a
+[github issue](https://github.com/full-disclosure/repo/issues/new).
+Thank you
 
 # Full Disclosure published reports
 
