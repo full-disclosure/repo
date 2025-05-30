@@ -6,6 +6,9 @@ Thank you
 
 ## 2025
 
+* [FDEU-CVE-2025-1c00](reports/2025/FDEU-CVE-2025-1c00-arris-bootloader-shell-injection.md) -
+Shell injection in Telia Arris VIP1113 tv box bootloader.
+
 * [FDEU-CVE-2025-00fe](reports/2025/FDEU-CVE-2025-00fe-github-private-repo-access-control-bypass.md) -
 Bypass of access restrictions of a private Github organization repo.
 
